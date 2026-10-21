@@ -1,1 +1,1 @@
-node_modules*.db/\n.env\n*.db\n*.sqlite\nnpm-debug.log*\n
+node_modules*.db*.sqlite/\n.env\n*.db\n*.sqlite\nnpm-debug.log*\n
